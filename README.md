@@ -1,7 +1,7 @@
 # KraftBar [![](https://jitpack.io/v/augustusiam/KraftBar.svg)](https://jitpack.io/#augustusiam/KraftBar)
 KraftBar is a simple liblary for showing loading progress, or just toast with style in android.
 
-# How do get KraftyTime?
+# How do get KraftBar?
 1. Add this to build level gradle file.
 	```
 	allprojects {
